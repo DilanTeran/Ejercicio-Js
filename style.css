@@ -4,7 +4,8 @@ body{
     box-sizing: border-box;
     background: #000;
     position: relative;
-    margin-top: 30%;
+    margin-top: 200px;
+    margin-left: 370px;
 }
 
 form{
@@ -61,7 +62,7 @@ input[type="submit"]:hover{
 
 h3{
     color: white;
-    margin: 4% 17%;
+    margin: 4% 21%;
 }
 
 .green{
